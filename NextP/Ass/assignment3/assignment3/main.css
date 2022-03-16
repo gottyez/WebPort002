@@ -1,0 +1,66 @@
+img{
+    width:30%;
+}
+
+#cinnamon1{
+    width: 20%;
+}
+#cinnamon2{
+    margin-left: 15%;
+    width: 15%;
+    float: left;
+}
+#cinnamon3{
+    margin-left: 15%;
+    width: 15%;
+    float: left;
+}
+
+#header{
+    text-align: center;
+}
+
+
+ul{
+    margin-left: 30%;
+    margin-right: 15%;
+}
+h1{
+    text-align: center;
+    color: orangered;
+}
+
+h2{
+    
+    background-color: orangered;
+    color: white;
+}
+
+h1, h2, h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li{
+    font-size: 110%;
+}
+
+.flex_container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.flex_container > div{
+    width: auto;
+    margin-left: 10px;
+    text-align: center;
+    margin: 10px;
+}
+
+#picture{
+    text-align: center;
+}
+
+#footer{
+    text-align: center;
+}

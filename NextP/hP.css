@@ -1,0 +1,31 @@
+
+html{font-family: "Roboto", sans-serif}
+
+
+body{background-color: lightgray;}
+.content{margin-left:auto;
+    margin-right:auto;
+    margin-top: 16px;
+    max-width:980px}
+
+.grid{padding: 8px}
+
+
+.grid>.Pro1,.grid>.Pro2{padding: 8px}
+.Pro1,.Pro2{float:left;width:100%}
+
+.P{
+    background-color: white;
+    margin-bottom: 16px;
+    padding: 16px;
+}
+#work{
+    padding: 2px;
+    background-color: black;
+    margin: 10px;}
+    
+.AInfo{
+    margin-right: 16px;
+    float: right;}
+
+#work:hover{opacity:0.60}

@@ -1,0 +1,17 @@
+body{background-color: cadetorange;}
+
+b{
+    font-size: 30px;
+}
+
+input{
+    margin: 5px;
+}
+
+.log{
+    background-color: burlywood;
+}
+
+button{
+    background-color: greenyellow;
+}
